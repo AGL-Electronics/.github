@@ -1,6 +1,6 @@
 # AGL Electronics
 
-![AGL Electronics Logo](/profile/assats/img/full_trimmed_transparent_customcolor.png)
+![AGL Electronics Logo](/profile/assets/img/full_trimmed_transparent_customcolor.png)
 
 Welcome to the official page of AGL Electronics. We're at the forefront of innovation, crafting electronics that empower our customers and communities. Dive into our world of cutting-edge technology and join us in shaping the future.
 
@@ -34,7 +34,7 @@ Are you passionate about technology and innovation? There are several ways to ge
 
 For inquiries, support, or more information:
 
-- **Email**: contact@agleelectronics.com
+- **Email**: <contact@agleelectronics.com>
 - **Twitter**: [@AGLElectronics](twitter-handle-link)
 - **LinkedIn**: [AGL Electronics](linkedin-profile-link)
 
@@ -43,4 +43,3 @@ We're excited to connect with you!
 ---
 
 Thank you for visiting our profile. Together, we can create a brighter, smarter, and more connected world.
-
