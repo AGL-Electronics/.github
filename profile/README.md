@@ -1,6 +1,6 @@
 # AGL Electronics
 
-![AGL Electronics Logo](link-to-logo-image)
+![AGL Electronics Logo](/profile/assats/img/full_trimmed_transparent_customcolor.png)
 
 Welcome to the official page of AGL Electronics. We're at the forefront of innovation, crafting electronics that empower our customers and communities. Dive into our world of cutting-edge technology and join us in shaping the future.
 
