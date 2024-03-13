@@ -13,7 +13,7 @@ AGL Electronics, founded in [Year], has steadily grown to become a leading name 
 - **Smart Home Devices**: Revolutionizing your living spaces with intelligent design.
 - **Wearable Tech**: Enhancing your lifestyle with smart wearable technology.
 - **Consumer Electronics**: From smartphones to TVs, quality at every step.
-
+- **Industerial Electronics**: From high power drives to low power high reliability systems.
 ## Our Mission
 
 To innovate and inspire through technology. At AGL Electronics, we are dedicated to creating products that improve lives and solve real-world problems. We are committed to sustainability, striving to minimize our environmental footprint through eco-friendly practices and products.
@@ -34,10 +34,8 @@ Are you passionate about technology and innovation? There are several ways to ge
 
 For inquiries, support, or more information:
 
-- **Email**: <contact@agleelectronics.com>
-- **Twitter**: [@AGLElectronics](twitter-handle-link)
-- **LinkedIn**: [AGL Electronics](linkedin-profile-link)
-
+- **Email**: <info@agleelectronics.com>
+- **Website**:  [AGL Electronics](https://www.aglelectronics.com/)
 We're excited to connect with you!
 
 ---
